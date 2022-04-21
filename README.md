@@ -1,4 +1,4 @@
-# Páginas da aula 22 sobre seletores com HTML e CSS3
+# Páginas da aula 21 & 22 sobre seletores com HTML e CSS3
 
 ## Páginas criadas
 
